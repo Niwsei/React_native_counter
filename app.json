@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "first_totorial",
+    "slug": "first_totorial",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "first_totorial"
+}
